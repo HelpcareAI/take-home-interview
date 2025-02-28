@@ -113,5 +113,4 @@ def test_basic_booking():
     )
     assert appointment.status == AppointmentStatus.SCHEDULED
 ```
-```
 
